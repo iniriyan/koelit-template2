@@ -1,0 +1,27 @@
+Dikin1995
+04411740000046	
+https://www.qwiklabs.com/catalog?keywords=aws&locale=&page=3&per_page=50&per_page=25
+https://www.qwiklabs.com/catalog?keywords=Build%20and%20Deploy%20a%20Docker%20Image%20to%20a%20Kubernetes%20Cluster
+https://www.qwiklabs.com/focuses/7782?parent=catalog
+
+
+#!/bin/bash
+yum -y install httpd
+systemctl enable httpd
+systemctl start httpd
+echo '<html><h1>Hello From Your Web Server!</h1></html>' > /var/www/html/index.html
+
+I have problem. Suddently,  My azure subscription is disable (Stopped)
+
+
+Hello, i can't sign up using pas as you go, there was error notification like this
+Read
+ at 16:50, Feb 10:
+Check the info you entered. It doesn't match the info for this card.
+Read
+ at 16:50, Feb 10:
+Check the info you entered. It doesn't match the info for this card.
+Read
+ at 16:50, Feb 10:
+I want to upgrade to pay as you go, my card is still active
+Read
